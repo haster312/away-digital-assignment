@@ -1,9 +1,4 @@
-# Project Name
-
-Welcome to the Project Name! This guide will help you get started with running the project using Docker.
-
 ## Prerequisites
-
 Before you begin, ensure you have the following installed on your computer:
 
 - **Docker**: Docker is a platform that allows you to run applications in containers. You can download and install Docker from [Docker's official website](https://www.docker.com/get-started).
